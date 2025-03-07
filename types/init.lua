@@ -1,2 +1,2 @@
----@type mp
+---@class mp
 _G.mp = nil
